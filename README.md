@@ -15,7 +15,7 @@ A Python Selenium-based automation framework for login testing with the Page Obj
 ---
 
 ## 🔹 Project Structure
-
+```
 QA_Automation_Portfolio/
 ├─ Pages/
 │ ├─ Base.py
@@ -29,7 +29,7 @@ QA_Automation_Portfolio/
 ├─ reports/ # HTML reports
 ├─ requirements.txt
 └─ README.md
-
+```
 
 ---
 
