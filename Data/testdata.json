@@ -1,0 +1,14 @@
+{
+    "test1": {
+        "username": "student",
+        "password": "Password123"
+    },
+    "test2": {
+        "username": "ahdfk",
+        "password": "Password123"
+    },
+    "test3": {
+        "username": "student",
+        "password": "akshdfa"
+    }
+}
