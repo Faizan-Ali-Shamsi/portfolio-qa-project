@@ -10,7 +10,6 @@ A Python Selenium-based automation framework for login testing with the Page Obj
 - Pytest
 - pytest-html
 - JSON (for test data)
-- Optional: webdriver-manager for automatic browser driver management
 
 ---
 
@@ -77,7 +76,3 @@ Test data is stored in Data/testdata.json in this format:
 Failed tests automatically generate screenshots in the screenshots/ folder.
 HTML reports are generated in the reports/ folder.
 
-
-💡 Notes
-
-Make sure Chrome/Firefox/Edge browsers are installed.
