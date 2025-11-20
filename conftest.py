@@ -11,7 +11,7 @@ def setup(browser):
     elif browser == "edge":
         d = webdriver.Edge()
     else:
-        print("Please enter a valid browser name.")
+        raise ValueError("Please enter a valid browser name: chrome, firefox, edge")
     d.get("https://practicetestautomation.com/practice-test-login/")
     d.maximize_window()
     yield d
